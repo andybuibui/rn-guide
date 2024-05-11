@@ -124,7 +124,7 @@ https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%E4%B9%8B
 
 ### ES6
 
-* 深入浅出ES6（一）：ES6是什么
+* 深入浅出ES6（一）：ES6是什么?
 http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
 
 * 深入浅出ES6（二）：迭代器和for-of循环
