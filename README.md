@@ -1,7 +1,7 @@
 # React-Native学习指南
 收集React-Native各类学习资源，给大家提供便利。
 
-大家有好的资源欢迎Pull Requests！
+大家有好的资源欢迎Pull Requests!!
 
 同时还有Awesome React Native系列
 https://github.com/jondot/awesome-react-native
