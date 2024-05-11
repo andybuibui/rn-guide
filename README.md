@@ -1,4 +1,4 @@
-# React-Native学习指南
+# React-Native学习
 收集React-Native各类学习资源，给大家提供便利。
 
 大家有好的资源欢迎Pull Requests！
