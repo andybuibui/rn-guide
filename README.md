@@ -1,5 +1,5 @@
 # React-Native学习指南
-收集React-Native各类学习资源，给大家提供便利。指南正在不断的更新，大家有好的资源欢迎Pull Requests！
+收集React-Native各类学习资源，给大家提供便利。指南正在不断的更新
 
 同时还有Awesome React Native系列
 https://github.com/jondot/awesome-react-native
@@ -569,3 +569,4 @@ http://awhisper.github.io/2016/07/22/Weex-ReactNative-JSPatch/
 * weex&ReactNative对比
 https://zhuanlan.zhihu.com/p/21677103
 
+大家有好的资源欢迎Pull Requests！
